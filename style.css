@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: Squada One;
+}
+
+canvas {
+  display: block;
+}
+
+h1 {
+  font-size: 90px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+button {
+  font-size: 35px;
+  font-family: Squada One;
+  background: none;
+  color: white;
+  border: 2px solid white;
+  padding: 10px 20px;
+}
+
+button:hover {
+  cursor: pointer;
+}
